@@ -1,2 +1,2 @@
 # Simple-C.R.U.D
-Challenge for myself, try to make a crud with ASP.net and VueJS
+A Challenge for myself, trying to create a simple crud with ASP.net and VueJS.
